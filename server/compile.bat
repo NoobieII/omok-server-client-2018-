@@ -1,0 +1,1 @@
+g++ omok_game.cpp omok_online.cpp omok_player.cpp packet.cpp player.cpp player_packet_handlers.cpp server.cpp session.cpp -static -o omok_online_server.exe -lboost_system-mgw63-1_65_1 -lwsock32 -lws2_32

@@ -1,0 +1,1 @@
+g++ console_graphics.cpp interface.cpp key_event.cpp omok_game.cpp omok_online.cpp omok_game_handler.cpp omok_player.cpp packet.cpp player.cpp player_packet_handlers.cpp session.cpp -static -o omok_online_client.exe -lboost_system-mgw63-1_65_1 -lwsock32 -lws2_32
